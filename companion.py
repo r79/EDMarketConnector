@@ -20,7 +20,7 @@ from config import appname, appversion, config
 holdoff = 60	# be nice
 timeout = 10	# requests timeout
 
-CLIENT_ID   = None 	# Replace with FDev Client Id
+CLIENT_ID   = "4e135d0a-e313-4ace-b76b-22947d1be13e" 	# Replace with FDev Client Id
 SERVER_AUTH = 'https://auth.frontierstore.net'
 URL_AUTH    = '/auth'
 URL_TOKEN   = '/token'
